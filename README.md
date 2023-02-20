@@ -8,7 +8,7 @@ Exploration CNN’s applications on chest Xray images for a classification task,
 
 1)	**Download Files:** 
 2)	**Download Script:** 
-      01_Project_TAAC_Pneumonia_ModelsTraining_Oficial.ipynb
-      02_Project_TAAC_Pneumonia_ModelsEvaluation_Oficial
+      - 01_Project_TAAC_Pneumonia_ModelsTraining_Oficial.ipynb
+      - 02_Project_TAAC_Pneumonia_ModelsEvaluation_Oficial.ipynb
 
 _(make sure you have downloaded Keras and Pytorch on your computer to run the script)_
